@@ -1,12 +1,8 @@
-# Kickstart Three.js
+# Pixelated 3D
 
-Next.js template with the typical dependencies that I prefer.
-
-I use it to kickstart 3D toy projects and ideas.
+Pixelation pass with optional single pixel outlines by [Kody King](https://threejs.org/examples/webgl_postprocessing_pixel.html), inside a Next.js app with Jotai, Motion, Zod, Biome, Shadcn, Three.js, React Three Fiber and React Drei.
 
 ![Preview](README.png)
-
-For a non-3D project, see [Kickstart Basic](https://github.com/feremabraz/kickstart-basic).
 
 ## Content
 
